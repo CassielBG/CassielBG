@@ -3,11 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-
-
 - 🌱 I’m currently learning Web Development and Data Science, amongst many other programming languages
 
 - 📫 How to reach me **cassiel.beltran.iti@gmail.com**
