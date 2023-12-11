@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/cassiel-beltr%C3%A1n-grimaldo-5472b422a/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/CassielBG/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       <img src="https://skillicons.dev/icons?i=linkedin" />
       alt="" height="30" width="40" /></a>
     
 //  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
