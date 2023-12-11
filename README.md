@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cassiel Beltrán</h1>
 <h3 align="center">Student at Polytechnical University of San Luis Potosi, Mexico.</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 - 🌱 I’m currently learning Web Development and Data Science, amongst many other programming languages
 
 - 📫 How to reach me **cassiel.beltran.iti@gmail.com**
