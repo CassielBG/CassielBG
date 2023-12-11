@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Cassiel Beltrán</h1>
+<h3 align="center">Student at Universidad Politécnica de San Luis Potosi, Mexico.</h3>
 
 <br>
 
