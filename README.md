@@ -18,7 +18,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/cassiel-beltr%C3%A1n-grimaldo-5472b422a/" target="blank"><img align="center"
        <img src="https://skillicons.dev/icons?i=linkedin,twitter" />
-      alt="" height="30" width="40" /></a>
 </p>
 
 <br>
