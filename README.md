@@ -23,9 +23,14 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,github,c,cpp,html,js,css,py" />
+    <img src="https://skillicons.dev/icons?i=git,bash,github,c" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,js,css,py" />
   </a>
 </p>
 
