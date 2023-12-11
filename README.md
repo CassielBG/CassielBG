@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cassiel Beltrán</h1>
 <h3 align="center">Student at Polytechnical University of San Luis Potosi, Mexico.</h3>
 
-<br>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 - 🌱 I’m currently learning Web Development and Data Science, amongst many other programming languages
